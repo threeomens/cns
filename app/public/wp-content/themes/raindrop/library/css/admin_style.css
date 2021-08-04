@@ -1,0 +1,19 @@
+#adminmenu a.company-logo{
+    display: block;
+    background: url(../images/admin-logo.png) no-repeat center center;
+    background-size: 140px;
+    width: 140px;
+    opacity: 1.0;
+    height: 125px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    padding: 0px 5px 10px 5px;
+}
+
+#adminmenu a.company-logo div.wp-menu-name {
+    display: none;
+}
+
+#adminmenu {
+    margin: 3px 0;
+ }

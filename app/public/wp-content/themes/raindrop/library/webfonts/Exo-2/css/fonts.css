@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Exo 2';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/Exo-2-regular/Exo-2-regular.eot');
+  src: url('/fonts/Exo-2-regular/Exo-2-regular.eot?#iefix') format('embedded-opentype'),
+       local('Exo 2'),
+       local('Exo-2-regular'),
+       url('/fonts/Exo-2-regular/Exo-2-regular.woff2') format('woff2'),
+       url('/fonts/Exo-2-regular/Exo-2-regular.woff') format('woff'),
+       url('/fonts/Exo-2-regular/Exo-2-regular.ttf') format('truetype'),
+       url('/fonts/Exo-2-regular/Exo-2-regular.svg#Exo2') format('svg');
+}
+
+@font-face {
+  font-family: 'Exo 2';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/Exo-2-700/Exo-2-700.eot');
+  src: url('/fonts/Exo-2-700/Exo-2-700.eot?#iefix') format('embedded-opentype'),
+       local('Exo 2 Bold'),
+       local('Exo-2-700'),
+       url('/fonts/Exo-2-700/Exo-2-700.woff2') format('woff2'),
+       url('/fonts/Exo-2-700/Exo-2-700.woff') format('woff'),
+       url('/fonts/Exo-2-700/Exo-2-700.ttf') format('truetype'),
+       url('/fonts/Exo-2-700/Exo-2-700.svg#Exo2') format('svg');
+}
+
